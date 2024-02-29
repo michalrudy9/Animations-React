@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Animations-React/static/css/main.08d642a9.css",
+    "main.js": "/Animations-React/static/js/main.b1785135.js",
+    "static/media/family-time.png": "/Animations-React/static/media/family-time.17c7f3b978238b2c43e2.png",
+    "static/media/playing-guitar.png": "/Animations-React/static/media/playing-guitar.615290c1fa31ca6d9102.png",
+    "static/media/cooking.png": "/Animations-React/static/media/cooking.f37c4eb8360c2ded0229.png",
+    "static/media/romantic-walk.png": "/Animations-React/static/media/romantic-walk.6951f671822722a21240.png",
+    "static/media/constructing.png": "/Animations-React/static/media/constructing.ff6e1b0d795baa9f275d.png",
+    "static/media/working-on-computer.png": "/Animations-React/static/media/working-on-computer.fe7c31f398eba0258f20.png",
+    "static/media/working-out.png": "/Animations-React/static/media/working-out.345da94080e9007e537a.png",
+    "static/media/hero.png": "/Animations-React/static/media/hero.699eef8616a0cbb962d7.png",
+    "static/media/city.jpg": "/Animations-React/static/media/city.59217558a50f09d30d2d.jpg",
+    "index.html": "/Animations-React/index.html",
+    "main.08d642a9.css.map": "/Animations-React/static/css/main.08d642a9.css.map",
+    "main.b1785135.js.map": "/Animations-React/static/js/main.b1785135.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08d642a9.css",
+    "static/js/main.b1785135.js"
+  ]
+}
